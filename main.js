@@ -19,7 +19,7 @@ function gotPoses(results) {
     }
 }
 function takeSnapshot() {
-    save('clownNose.png');
+    save('mustache.png');
 }
 function draw() {
     image(video, 0, 0, 300, 300);
